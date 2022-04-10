@@ -1,0 +1,3 @@
+[submodule "xdorust"]
+	path = xdorust
+	url = git@github.com:asakhar/xdorust.git
